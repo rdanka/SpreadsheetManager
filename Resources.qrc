@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/actions">
+        <file>tablazatkezelo_images/copy.png</file>
+        <file>tablazatkezelo_images/cut.png</file>
+        <file>tablazatkezelo_images/find.png</file>
+        <file>tablazatkezelo_images/gotocell.png</file>
+        <file>tablazatkezelo_images/icon.png</file>
+        <file>tablazatkezelo_images/new.png</file>
+        <file>tablazatkezelo_images/open.png</file>
+        <file>tablazatkezelo_images/paste.png</file>
+        <file>tablazatkezelo_images/save.png</file>
+    </qresource>
+</RCC>
